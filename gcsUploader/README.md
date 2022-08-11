@@ -1,9 +1,5 @@
 # GCSUploader
 #### Google cloud storage Component for CakePHPn 3.x
-
-[![N|Solid](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/60px-Go_Logo_Blue.svg.png)](https://dev.to/slimdestro)
-  
-
 ```sh
 $this->loadComponent('Gcs') 
 
